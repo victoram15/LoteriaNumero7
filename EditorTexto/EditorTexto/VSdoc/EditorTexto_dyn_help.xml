@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="EditorTexto" Title="EditorTexto Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_000000000000000E_overloads--.html" LinkGroup="EditorTexto">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form2.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000013_overloads--.html" LinkGroup="EditorTexto">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000019.html" LinkGroup="EditorTexto">EditorTexto Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000018.html" LinkGroup="EditorTexto">EditorTexto Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000000.html" LinkGroup="EditorTexto">Form1 Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000011.html" LinkGroup="EditorTexto">Form2 Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.InitializeComponent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000010.html" LinkGroup="EditorTexto">InitializeComponent Method {EditorTexto.Form1}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form2.InitializeComponent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000015.html" LinkGroup="EditorTexto">InitializeComponent Method {EditorTexto.Form2}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.abrirArchivo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000005.html" LinkGroup="EditorTexto">abrirArchivo Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form2.btnAceptar_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000012.html" LinkGroup="EditorTexto">btnAceptar_Click Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.btnForm2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_000000000000000D.html" LinkGroup="EditorTexto">btnForm2 Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.cargarFormulario" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000001.html" LinkGroup="EditorTexto">cargarFormulario Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.colorFondo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_000000000000000C.html" LinkGroup="EditorTexto">colorFondo Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.colorFuente" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_000000000000000B.html" LinkGroup="EditorTexto">colorFuente Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.components" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_000000000000000F.html" LinkGroup="EditorTexto">components Field {EditorTexto.Form1}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form2.components" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000014.html" LinkGroup="EditorTexto">components Field {EditorTexto.Form2}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.copiar" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000007.html" LinkGroup="EditorTexto">copiar Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.cortar" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000009.html" LinkGroup="EditorTexto">cortar Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.guardarMnu_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000003.html" LinkGroup="EditorTexto">guardarMnu_Click Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.nuevoDocumento" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000004.html" LinkGroup="EditorTexto">nuevoDocumento Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.pegar" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000008.html" LinkGroup="EditorTexto">pegar Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.rchTxtBox_MouseUp" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000002.html" LinkGroup="EditorTexto">rchTxtBox_MouseUp Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.salir" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_0000000000000006.html" LinkGroup="EditorTexto">salir Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EditorTexto.Form1.tipoFuente" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EditorTexto.chm::/topic_000000000000000A.html" LinkGroup="EditorTexto">tipoFuente Method</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

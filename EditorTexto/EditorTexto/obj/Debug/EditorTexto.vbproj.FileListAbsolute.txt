@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\bin\Debug\EditorTexto.exe.config
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\bin\Debug\EditorTexto.exe
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\bin\Debug\EditorTexto.pdb
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\bin\Debug\EditorTexto.xml
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.Form1.resources
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.Resources.resources
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.vbproj.GenerateResource.Cache
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.exe
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.xml
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.pdb
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.Form2.resources
+C:\Users\victo\OneDrive\Escritorio\1ºDAM\Entornos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.vbprojResolveAssemblyReference.cache
